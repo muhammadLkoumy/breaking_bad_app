@@ -1,9 +1,9 @@
 # Breaking Bad Series
+## Built on Brakinbad API 
 
-
-## All characters
+### All characters
 <img src="screenshots/first.jpg" width = "400"> <img src="screenshots/second.jpg" width = "400">
-## Search for chracter and chracter details
+### Search for chracter and get chracter details
 <img src="screenshots/third.jpg" width = "400"> <img src="screenshots/fourth.jpg" width = "400"> 
-## Offline mode
+### Offline mode
 <img src="screenshots/fifth.jpg" width = "400"> 
