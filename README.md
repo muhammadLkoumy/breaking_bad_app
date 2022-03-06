@@ -1,4 +1,4 @@
-# breakingbad_flutter
+# Breaking Bad Serirs
 
 
 ## All characters
