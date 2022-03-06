@@ -1,4 +1,4 @@
-# Breaking Bad Serirs
+# Breaking Bad Series
 
 
 ## All characters
