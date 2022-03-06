@@ -39,13 +39,13 @@ class CharacterItem extends StatelessWidget {
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
             child: Text(
               '${character.name}',
-              maxLines: 2,
+              maxLines: 1,
               overflow: TextOverflow.ellipsis,
               textAlign: TextAlign.center,
               style: const TextStyle(
                 color: Colors.white,
-                fontSize: 18,
-                height: 1.3,
+                fontSize: 16,
+                height: 1.2,
               ),
             ),
           ),
