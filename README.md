@@ -1,5 +1,5 @@
 # Breaking Bad Series
-## Built on Brakinbad API 
+## Built on Breaking Bad API 
 
 ### All characters
 <img src="screenshots/first.jpg" width = "400"> <img src="screenshots/second.jpg" width = "400">
