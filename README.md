@@ -1,6 +1,9 @@
 # Breaking Bad Series
 ## Built on Breaking Bad API 
 
+<text> ----------------------------------------------------------------------------------------------------------------------------- </text>
+
+
 ### All characters
 <img src="screenshots/first.jpg" width = "400"> <img src="screenshots/second.jpg" width = "400">
 ### Search for chracter and get chracter details
