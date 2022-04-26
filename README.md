@@ -1,5 +1,7 @@
 # Breaking Bad Series
-## Built on Breaking Bad API 
+## Built on Breaking Bad API.
+## Animations.
+## Offline Mode.
 
 <text> ----------------------------------------------------------------------------------------------------------------------------- </text>
 
