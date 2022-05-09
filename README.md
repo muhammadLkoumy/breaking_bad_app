@@ -1,7 +1,14 @@
-# breakingbad_flutter
+# Breaking Bad Series
+## Built on Breaking Bad API.
+## Animations.
+## Offline Mode.
 
-<img src="screenshots/first.jpg" width = "300"> <img src="screenshots/second.jpg" width = "300"> 
+<text> ----------------------------------------------------------------------------------------------------------------------------- </text>
 
-<img src="screenshots/third.jpg" width = "300"> <img src="screenshots/fourth.jpg" width = "300"> 
 
-<img src="screenshots/fifth.jpg" width = "300"> 
+### All characters
+<img src="screenshots/first.jpg" width = "400"> <img src="screenshots/second.jpg" width = "400">
+### Search for chracter and get chracter details
+<img src="screenshots/third.jpg" width = "400"> <img src="screenshots/fourth.jpg" width = "400"> 
+### Offline mode
+<img src="screenshots/fifth.jpg" width = "400"> 
